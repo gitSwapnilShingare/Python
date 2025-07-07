@@ -1,0 +1,5 @@
+EmployeeID,Name,Department,Salary,JoiningDate,PerformanceRating,Experience,SalaryGrade,PerfRank,Bonus,RollingSalaryAvg
+109,Ivan,Finance,63000,2016-12-12,5,8,C,1.0,3150.0,62000.0
+104,David,IT,80000,2018-11-05,5,6,A,1.0,4000.0,71666.66666666667
+101,Alice,HR,50000,2020-01-15,3,5,C,1.0,1500.0,
+108,Heidi,HR,51000,2023-01-01,3,2,C,1.0,1530.0,61666.666666666664

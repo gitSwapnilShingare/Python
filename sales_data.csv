@@ -1,0 +1,101 @@
+order_id,customer_name,product,quantity,price_per_unit,order_date
+be56f60c-697c-47ae-9e1d-96525643139d,Mary Yates,USB Cable,3,200,2025-06-25
+8ce07247-3c68-4dc7-8dc5-a6c15d3f8088,Alexandra Murphy,Monitor,3,1500,2025-06-29
+3a96f41a-2a26-4f99-ac14-fa7898a72ad9,Allen Flores,Keyboard,5,1500,2025-06-28
+994bc3ee-f6cd-4c22-bb73-a01dddc30aeb,Lauren Walker,Keyboard,4,8000,2025-06-14
+e1a284e3-b3b7-41c0-b39a-314a750e5a67,Kevin Garza,Laptop,2,1000,2025-06-10
+a4598cd8-8454-48af-bd1b-5229fc8e814f,Monica Wilcox,Monitor,2,200,2025-06-13
+7d798af9-24b2-411a-924b-ace622eb9adb,Andrea Parrish,Keyboard,3,1500,2025-06-16
+ada1664c-79ea-4949-8f33-1e2d11c35702,Heather Rodgers,Monitor,3,200,2025-06-16
+e2926789-c70e-416f-a2c3-e5e477c6ff96,Crystal Owens,Laptop,3,8000,2025-07-01
+363dafbb-9d2e-4a7b-9d85-e3a1ba5fc321,Jeanette Leon,Mouse,2,1500,2025-06-11
+3989602f-aebe-49f6-8bfa-c193d89098bc,Rachel Thomas,Laptop,5,8000,2025-06-17
+dd663be9-ea72-42f7-a743-87bf15cf901b,Amy Jenkins,Mouse,4,200,2025-06-17
+431ddcb2-4b2a-4ccf-a1a4-e6cd49d78116,Alexander Fuentes,Monitor,3,1500,2025-06-10
+96a70eeb-14d6-4bd4-900d-177867f63763,Robert Cook,Laptop,2,200,2025-06-27
+e5724938-8d3c-4624-b9d7-4ed9e7ffa1e6,Pamela Munoz,Mouse,2,5000,2025-06-11
+aa9b3dc7-17c8-4e75-bd7d-4d095e854bba,Veronica Suarez MD,Monitor,1,8000,2025-06-16
+43fb74c1-802c-4290-bdb1-2d1f4ae0ec0f,Terry Chambers,Monitor,3,200,2025-06-04
+166636f5-97ff-4174-93b8-9b06dbb894b9,Kristina Sanchez,Mouse,3,200,2025-06-14
+095fd9e4-0215-4b91-a7a4-cc1c13bf9f25,Sara Moore,Monitor,1,1000,2025-07-02
+3e70e854-5671-4af5-889b-d26608ebfcee,Stephanie Schmitt,Laptop,3,1500,2025-07-01
+ed3de410-20a1-4a11-aa64-acd886859586,Leah Hodge,Laptop,4,1000,2025-06-12
+a3eccf67-2578-4a66-806f-3350b32361f1,Jacqueline Cole,USB Cable,3,1000,2025-06-10
+154e4ed0-b322-4b6a-a13c-d185d1377bf4,Christina Smith,Monitor,3,5000,2025-06-26
+442905b3-b50d-43da-9972-3b4380eb7d2d,Anita Moreno,Keyboard,5,1500,2025-06-14
+edd40c79-e704-4fe6-b6eb-fd3b94f087c3,Michael Ellis,Laptop,5,1000,2025-06-13
+6848d059-02bc-4291-9f42-0a1e2420ca8c,Claudia Castro,Monitor,4,1000,2025-07-01
+57db6803-ad0d-43e8-830a-0e22ad52f51d,Alyssa Anderson,Monitor,4,8000,2025-06-06
+084ee794-e3dc-4707-b851-662076eb0039,Joshua Jones,Monitor,5,1500,2025-06-07
+40896af3-07e5-455d-9d4f-00004250586a,Anthony Diaz,Monitor,2,1500,2025-06-22
+8e5d59b6-4ca2-40ca-8727-88efd28ef381,Daisy Norris,Laptop,3,200,2025-06-07
+f2e71d17-debc-4786-85c6-485147fa8f1d,Dominique Clark,Keyboard,2,1500,2025-06-26
+f516d925-bf30-49cb-89da-d78274ff6952,James Chen,USB Cable,1,200,2025-06-23
+78442a00-1184-4a78-9b21-265e7849dbb4,Brian Alexander,Mouse,1,1500,2025-06-09
+e85dbe7b-c2a4-47d9-93fb-c7a0b51b26e8,Tracy Ramirez,Mouse,2,200,2025-06-07
+6d58cb97-d6de-4403-a141-d676b94c1e55,Renee Barnes,Keyboard,2,1000,2025-06-12
+9a534b19-4322-464a-a55f-652f39604799,Thomas Lewis,Monitor,1,8000,2025-06-15
+7ddf28b0-5977-4c2e-92ee-70f58defc09f,Ernest Graham,Keyboard,3,8000,2025-06-20
+b14abb90-10da-47d8-b2cf-e1b119a63556,Steven Ewing,Laptop,3,1500,2025-06-23
+6027d6a0-c966-4d1f-9464-0adfc5fb173f,Jonathan Gonzales,Monitor,1,1500,2025-07-01
+4b6e6fae-709f-4368-be0c-dc7fd07d742d,Tina Nguyen,USB Cable,1,1000,2025-06-21
+8cf0ffd7-0a0f-467e-a899-43877e0f57fc,Sean Peterson,Mouse,3,8000,2025-06-20
+72ea463f-8f69-48bf-9618-fef9e80dab11,Derek Elliott,Monitor,3,1000,2025-07-01
+aad7a445-9dbe-4855-a0a7-b9d2a70ad022,Katie Watts,Monitor,1,1500,2025-06-14
+e5d730d7-644c-4731-b6af-a3c9f5f94a28,Mrs. Danielle Moore,Mouse,1,1000,2025-06-11
+89f1496a-9a32-4b4f-8edd-5ff4084b5099,Linda Green,Monitor,3,8000,2025-06-10
+2252b7cf-d0d4-4c00-a2ad-484ecb2a2003,Aaron Arellano,USB Cable,1,1000,2025-06-19
+e8c3aaf1-884d-4f4d-a88c-810fc4b16c83,Dr. Mark Fox,USB Cable,3,8000,2025-06-15
+35d41217-5a6a-4e90-a3cb-22f82fb64bb1,Brittany Tran,USB Cable,5,200,2025-06-14
+5e5cb8b5-7244-4ef2-90c2-b4d99151aa7d,Tracy Barrett,Mouse,3,5000,2025-06-05
+4ce0a56c-9534-4057-adaa-d3c22201e562,Jon Hammond,Monitor,4,8000,2025-06-26
+1860ddf9-e2ae-4860-baca-7d80a776dd2f,Jessica Carr,Laptop,5,5000,2025-06-24
+6849c03a-6798-48f6-bcbc-08282ecfd16e,Brian Lynch,Keyboard,3,5000,2025-06-17
+6441e87b-0df1-41b8-a81e-db4819a6eac3,Michael Jackson,USB Cable,3,8000,2025-06-06
+c741f6f4-935e-47d7-8d0b-fcc6ad298366,Tina Johnson,Keyboard,3,1500,2025-06-16
+01cdfd29-3aa0-4c4c-bf99-6a86cea6d583,Stephanie Palmer,Keyboard,2,8000,2025-06-20
+cd7a94f4-5f2a-4f34-8c2d-22281d8e30dd,Mark Fleming,Monitor,1,1500,2025-07-02
+acff523d-2223-45fe-be41-17e727d4d327,Robert Browning,USB Cable,1,8000,2025-06-23
+10eab3f2-a794-44d9-9fb6-cc9b719f1b14,Joseph Green,Laptop,1,1500,2025-06-16
+7c994eab-6e47-417a-afe3-a0e7e0c403d4,Max Mckenzie,Laptop,1,8000,2025-06-24
+c7dbfc0c-00b7-4b57-b120-f29e48fdef29,Natalie Price,Laptop,5,1000,2025-06-06
+e3d38552-bd9c-422f-b710-a0e2c0132969,Luke Kennedy,Laptop,3,5000,2025-06-14
+3db9164a-a213-4961-9504-75ec07f28e7f,Katelyn Foster,USB Cable,5,200,2025-06-09
+3600b407-bf6c-436f-b895-47e5921c4c18,Audrey Watson,Mouse,4,200,2025-06-11
+b6c3f249-222c-492f-9684-0127e465ad9e,Cynthia Sullivan,Laptop,3,1500,2025-06-21
+725e8518-92cb-491e-9cba-2f2349bd84cc,Gina Christensen,Monitor,4,5000,2025-06-28
+36c00f79-dca1-4549-b2c0-a60fd922e151,William Whitney,Keyboard,2,8000,2025-07-03
+5fe753c8-bcca-49a3-a821-18b11740bd46,Kayla Shaw,Mouse,1,1000,2025-06-13
+ba48adc3-1eb6-4c93-bd6e-52c9546499b1,Jacob Harris,Monitor,3,1500,2025-06-27
+77806586-021e-4e31-9f1e-8e5c5ecb41d2,Carol Bell,Monitor,3,200,2025-06-22
+b53cd639-13a3-4d47-9607-9d9438814bcc,Mary Grant,USB Cable,3,1000,2025-06-21
+529d7143-7e6b-4912-a490-3ab1c8e920c7,Diamond Rowe,Keyboard,4,1500,2025-06-26
+5366ef3d-4745-430c-81dd-e49ccc3c992e,Angela Adams,Laptop,4,5000,2025-06-29
+926b366f-c98e-4b51-8df1-9045ae2933ca,Nicole Carr,Mouse,4,5000,2025-06-28
+678b3baf-5013-4435-8a7c-51b80dc11cc4,Jessica Brown,Mouse,3,8000,2025-07-01
+e3a6cb90-2145-4f00-9eeb-d547ee53364d,Cynthia Bush,Monitor,2,5000,2025-06-13
+e7f59f9f-4439-43b2-95a9-97b963c510da,Marie Gallegos,Laptop,4,1000,2025-06-24
+282e9762-132a-46fb-9096-1b2d10a2182b,Darlene Coleman,Laptop,5,200,2025-06-23
+1f2ee0c9-c72b-42bc-b936-729118dc744b,Samantha Garza,USB Cable,3,1000,2025-06-22
+007479b9-2d21-4569-a373-eaac6a6df414,David Davis,USB Cable,3,5000,2025-06-07
+af977762-9aa5-406e-a3d4-5405d86c13b6,Richard Bennett,USB Cable,5,200,2025-06-11
+2b7d7d7c-f7b8-4038-a41f-c2f1846f1ff6,Patricia Walsh,Monitor,3,1500,2025-06-27
+32c061c4-00bb-42e8-b738-1dc30b884210,Lee Johnson,Mouse,1,200,2025-06-04
+7273528e-9e8c-4ab8-8f20-a956fda85dcc,Rachel Grant,Monitor,4,1500,2025-06-09
+976f5a53-ea41-4827-b6eb-23b18370b001,Todd Lee,USB Cable,2,1000,2025-06-15
+b51b10e0-38fd-40db-b3af-3e6f292eb8d5,Tammy Peterson,Monitor,1,8000,2025-06-05
+e540ca1e-9bf2-4010-ac35-062fe05cff27,Michelle Garcia,Laptop,2,1500,2025-06-15
+b7b743d9-ba81-4c86-bd8b-4468a9c64f9b,Christopher Mcdaniel,Mouse,4,8000,2025-06-29
+bd1088e1-5499-4a8d-b067-087bc4fbffdf,Shawna Barnes,Laptop,1,200,2025-06-12
+9adf06a4-7769-49bb-8be9-769a853fc055,Jared Schultz,Monitor,1,5000,2025-06-17
+6f98081d-155e-46c2-bc95-24ae0aa74357,Rebecca Munoz,USB Cable,3,1000,2025-06-16
+959ee586-7455-4418-9b65-b9566c5ee1d4,Julia Baker,Mouse,4,200,2025-06-06
+75c08ad2-5084-406d-9330-98937c4cd70a,Alec Lawson,Laptop,4,8000,2025-06-29
+cc09a8ed-c407-4d47-bebf-e9c6f66d9444,Lisa Hunter,USB Cable,4,1000,2025-07-02
+180fb7f9-98f0-496e-bc44-967e7f8699f0,Richard Velasquez,Mouse,4,1500,2025-06-14
+011018d8-06f9-4c72-a460-24fcc97e15bd,Brian Morales,Laptop,5,1500,2025-06-06
+d6942809-1250-4fb5-b6bf-f436aec745b1,Amanda Gay,Laptop,3,1000,2025-06-06
+3bbb8309-9837-4fdf-a5f4-b95e673d897e,Tim Smith,Keyboard,2,200,2025-06-20
+39b57704-9507-4e4e-a00f-756a1602c400,Dr. Keith Swanson DDS,Monitor,1,200,2025-06-23
+2c73bcbb-6f82-4240-b270-cd1dea673f36,Patricia Brown,Keyboard,5,1000,2025-06-20
+4b5e34a6-9fc0-4090-b38f-b4f971dcffe7,Mr. Robert Whitney,USB Cable,2,200,2025-07-02

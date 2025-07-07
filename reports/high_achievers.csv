@@ -1,0 +1,5 @@
+EmployeeID,Name,Department,Salary,JoiningDate,PerformanceRating,Experience,SalaryGrade,PerfRank,Bonus,RollingSalaryAvg
+102,Bob,IT,70000,2019-03-10,4,6,B,2.0,2800.0,
+104,David,IT,80000,2018-11-05,5,6,A,1.0,4000.0,71666.66666666667
+107,Grace,IT,72000,2020-08-08,4,4,B,2.0,2880.0,62000.0
+110,Judy,IT,75000,2022-10-10,4,2,A,2.0,3000.0,63000.0
